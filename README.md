@@ -1,7 +1,7 @@
 # Buscador_de_Clima
 
 
-PESQUISA DE CIDADES EM ESTADOS DE TODO O MUNDO
+PESQUISA CLIMATICA DE CIDADES EM TODO O MUNDO.
 
 
 ![clima](https://user-images.githubusercontent.com/107477302/199819009-78e52cb4-2ec9-40e4-9413-823addc79c21.PNG)

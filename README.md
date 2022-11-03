@@ -11,7 +11,7 @@ PARA FAZER AS PESQUISAS E NECESSARIA UM API KEY:
 
 1 - FAÇA O CADASTRO NO 
 
->>>  https://openweathermap.org/ <<<
+>>>  https://openweathermap.org/ 
 
 2 - NAVEGUE ATE :
 
